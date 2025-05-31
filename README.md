@@ -26,18 +26,3 @@ This project demonstrates how to:
 - **AWS CloudFormation** – Backend provisioning via CDK
 
 ---
-
-## 📂 Project Structure
-
-aws-cdk-ci-cd-pipeline/
-├── bin/
-│ └── pipeline.ts # Entry point for CDK app
-├── lib/
-│ └── pipeline-stack.ts # Pipeline definition
-├── src/
-│ └── app/ # Sample application source code
-├── test/
-│ └── unit-tests/ # Unit tests for the app
-├── cdk.json
-├── package.json
-└── README.md
